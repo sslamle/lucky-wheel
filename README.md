@@ -14,4 +14,6 @@ studen 3 name
 ...
 ```
 
+Example: https://github.com/sslamle/lucky-wheel/blob/master/danhsach/lop1.txt
+
 # Open your list to show studens on the wheel
